@@ -174,7 +174,7 @@ export const projects = [
     name: "Moshify-Website",
     description:
       "A sophisticated cloud hosting service tailored for professionals and businesses seeking reliable, secure, and scalable cloud infrastructure.",
-    link: "https://github.com/OusamaMahmoud/Moshify",
+    link: "https://moshify-website-two.vercel.app/",
   },
   {
     iconUrl: snapgram,
